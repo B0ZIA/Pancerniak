@@ -1,0 +1,13 @@
+{
+"companyName": "ShaibaGameStudio",
+"productName": "Tankman",
+"dataUrl": "Tankman2.7.1.data.unityweb",
+"wasmCodeUrl": "Tankman2.7.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tankman2.7.1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
