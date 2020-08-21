@@ -5,12 +5,13 @@
 "dataUrl": "Pancerniak.io.data.unityweb",
 "wasmCodeUrl": "Pancerniak.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "Pancerniak.io.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Pancerniak.io.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#000000",
 "cacheControl": {"default": "must-revalidate"},
-"developmentBuild": true,
+"developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.4f1"
 }
